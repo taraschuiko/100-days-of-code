@@ -5,5 +5,3 @@
 **Today's Progress**: Completed 22 Regex excercises on freeCodeCamp.
 
 **Thoughts:** I've been learning regex on JavaScript course I've been attending, but I decided to remid myself this chapter. i feel more confident in it now XD
-
-[//]: **Link to work:** [Calculator App](http://www.example.com)
