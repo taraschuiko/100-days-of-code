@@ -1,7 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 31, 2018 (Example 1)
+### Day 0: January 31, 2018
 
 **Today's Progress**: Completed 22 Regex excercises on freeCodeCamp.
 
-**Thoughts:** I've been learning regex on JavaScript course I've been attending, but I decided to remid myself this chapter. i feel more confident in it now XD
+**Thoughts:** I've been learning regex on JavaScript course I've been attending, but I decided to remid myself this chapter. I feel more confident in it now XD
+
+### Day 1: February 1, 2018
+
+**Today's Progress**: Completed remaining Regex excercises on freeCodeCamp. Completed first 6 exercises on this repo https://github.com/taraschuiko/reactjs_koans
+
+**Thoughts:** I've been learning Vue.js for last 3 weeks, I liked it so much, but I decided to remind myself React a bit. And now I love both Vue and React more
