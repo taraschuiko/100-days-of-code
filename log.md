@@ -11,3 +11,9 @@
 **Today's Progress**: Completed remaining Regex excercises on freeCodeCamp. Completed first 6 exercises on this repo https://github.com/taraschuiko/reactjs_koans
 
 **Thoughts:** I've been learning Vue.js for last 3 weeks, I liked it so much, but I decided to remind myself React a bit. And now I love both Vue and React more
+
+### Day 2: February 2, 2018
+
+**Today's Progress**: Completed several exercises from this repo https://github.com/taraschuiko/reactjs_koans and freeCodeCamp React Redux course.
+
+**Thoughts:** I have nice skills in React, but I need to improve ones in Redux.
