@@ -17,3 +17,11 @@
 **Today's Progress**: Completed several exercises from this repo https://github.com/taraschuiko/reactjs_koans and freeCodeCamp React Redux course.
 
 **Thoughts:** I have nice skills in React, but I need to improve ones in Redux.
+
+### Day 3: February 3, 2018
+
+**Today's Progress**: Made simple weather app using Vue.js, Vuex state manager and OpenWeatherMap API.
+
+**Thoughts:** I think, Vue.js and Vuex are less difficult for me than React and Redux.
+
+**Link to work:** [Weather Vue.js App](http://weather.taraschuiko.com.ua/)
