@@ -25,3 +25,11 @@
 **Thoughts:** I think, Vue.js and Vuex are less difficult for me than React and Redux.
 
 **Link to work:** [Weather Vue.js App](http://weather.taraschuiko.com.ua/)
+
+### Day 4: February 4, 2018
+
+**Today's Progress**: Upgraded my weather app. Now it's not simple😅. It shows forecast for the next hours and next 5 days hourly. 
+
+**Thoughts:** Vue.js with Vuex are definitely easier than React/Redux😅. I made this feature in about one hour.
+
+**Link to work:** [Weather Vue.js App](http://weather.taraschuiko.com.ua/)
