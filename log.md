@@ -40,7 +40,4 @@
 
 **Thoughts:** Now I have two Vue.js apps in my portfolio website. Dat's incredible
 
-**Links to works:** [PrintEmbroidery](http://new.printembroidery.com.ua/methods/)
-[Weather Vue.js App](http://weather.taraschuiko.com.ua/)
-[Todo Vue.js App](http://todo.taraschuiko.com.ua/)
-[Portfolio](https://taraschuiko.com.ua/)
+**Links to works:** [PrintEmbroidery](http://new.printembroidery.com.ua/methods/), [Weather Vue.js App](http://weather.taraschuiko.com.ua/), [Todo Vue.js App](http://todo.taraschuiko.com.ua/), [Portfolio](https://taraschuiko.com.ua/)
