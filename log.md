@@ -33,3 +33,14 @@
 **Thoughts:** Vue.js with Vuex are definitely easier than React/Redux😅. I made this feature in about one hour.
 
 **Link to work:** [Weather Vue.js App](http://weather.taraschuiko.com.ua/)
+
+### Day 5: February 5, 2018
+
+**Today's Progress**: Created new page (Оплата і доставка) on PrintEmbroidery project. Improved crossbrowser styling in my weather app. Deployed my old Vue todolist app to my hosting. Updated my portfolio website.
+
+**Thoughts:** Now I have two Vue.js apps in my portfolio website. Dat's incredible
+
+**Links to works:** [PrintEmbroidery](http://new.printembroidery.com.ua/methods/)
+[Weather Vue.js App](http://weather.taraschuiko.com.ua/)
+[Todo Vue.js App](http://todo.taraschuiko.com.ua/)
+[Portfolio](https://taraschuiko.com.ua/)
