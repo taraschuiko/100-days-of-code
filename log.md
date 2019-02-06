@@ -41,3 +41,11 @@
 **Thoughts:** Now I have two Vue.js apps in my portfolio website. Dat's incredible
 
 **Links to works:** [PrintEmbroidery](http://new.printembroidery.com.ua/methods/), [Weather Vue.js App](http://weather.taraschuiko.com.ua/), [Todo Vue.js App](http://todo.taraschuiko.com.ua/), [Portfolio](https://taraschuiko.com.ua/)
+
+### Day 6: February 6, 2018
+
+**Today's Progress**: Made some content and SEO work on PrintEmbroidery project.
+
+**Thoughts:** Learnd a bit more about search engine optimization.
+
+**Link to work:** [PrintEmbroidery](https://github.com/taraschuiko/printembroidery)
